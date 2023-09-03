@@ -1,0 +1,49 @@
+/* *{
+    background-color: rgb(113, 234, 226);
+} */
+center{
+    background-color: rgb(113, 234, 226);
+}
+.container{
+    width: 42vw;
+    height: 49vw;
+    /* border: 3px solid black; */
+    margin-top: 20px;
+    background-color: rgb(255, 255, 255);
+    /* display: block; */
+
+}
+.img img{
+    width: 42vw;
+    background-color: rgb(255, 255, 255);
+ 
+    /* height: 47vw; */
+}
+/* .form{
+    border: 2px solid red;
+    width: 41.5vw;
+    height: 30.5vw;
+} */
+#name{
+    margin-right: 50px;
+    height: 35px;
+    width: 500px;
+    background-color: rgb(255, 255, 255);
+
+}
+#date{
+    margin-right: 70px;
+    height: 35px;
+    width: 200px;
+    background-color: rgb(255, 255, 255);
+}
+input{
+    border-radius: 5px;
+}
+#submit{
+    height:40px;
+    width: 120px;
+    margin-right: 440px;
+    background-color: rgb(29, 219, 29);
+    border-radius: 5px;
+}
